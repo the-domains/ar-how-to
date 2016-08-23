@@ -1,0 +1,14 @@
+name: AR How-To
+layout_spectrum: 0.8559453268533673
+typography_spectrum: 0.25630517403204933
+color:
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+  brandStrength: 0.14195100390105753
+  lightness: 0.3690708949985566
+  saturation: 0.3388531258640094
+  rhythmicContrast: 0.7726580086771566
