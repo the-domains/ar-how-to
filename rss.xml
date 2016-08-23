@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AR How-To]]></title>
+        <description><![CDATA[AR How-To]]></description>
+        <link>http://arhowto.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Aug 2016 23:23:38 GMT</lastBuildDate>
+        <atom:link href="http://arhowto.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ikea Augmented Reality Instructions]]></title>
+            <description><![CDATA[<article><h1>Ikea Augmented Reality Instructions</h1><p>Uploaded by CN2 Inc on 2015-03-31.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b1de44029c97e7e82fb92fcdf20b5dd2/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FUjVL7txfI7E%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/UjVL7txfI7E</link>
+            <guid isPermaLink="false">86024cd9-67b6-43de-89cd-9cac843a86f3</guid>
+            <pubDate>Tue, 23 Aug 2016 23:15:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HP Augmented Reality Product Maintenance]]></title>
+            <description><![CDATA[<article><h1>HP Augmented Reality Product Maintenance</h1><p>AR assisted product maintenance application for use with Epson Moverio smart-glasses. The apps provide step-by-step instructions to assist with basic maintenance procedures on a DL380P Gen8 Server. Utilising AR to overlay visual identifiers helps to immediately see where to place your hands, what to press, turn or pinch, or where to place a tool and the direction it needs to be turned or pushed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aa1d45f8eda14aab27e0d2a9f7ebd6c3/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FEiqqRYD1J4M%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/EiqqRYD1J4M</link>
+            <guid isPermaLink="false">a787de7b-ba54-4832-85a0-cff21d4fa80b</guid>
+            <pubDate>Tue, 23 Aug 2016 23:15:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
